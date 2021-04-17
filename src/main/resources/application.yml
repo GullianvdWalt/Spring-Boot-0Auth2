@@ -1,8 +1,8 @@
 security:
   oauth2:
     client:
-      clientId: 438fea12d37d8900f66d
-      clientSecret: a97d254cda0e2f5ba8998cd67cd535cdeeaec339
+      clientId:
+      clientSecret:
       accessTokenUri: https://github.com/login/oauth/access_token
       userAuthorizationUri: https://github.com/login/oauth/authorize
       clientAuthenticationScheme: form
